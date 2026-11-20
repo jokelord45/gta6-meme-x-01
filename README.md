@@ -1,5 +1,9 @@
 # gta6-meme-x-01 — "Waited 13 Years for GTA VI"
 
+[![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![rank](https://make.fun/badge/gta6-meme-x-01/jokelord45/gta6-meme-x-01/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![reward](https://make.fun/badge/gta6-meme-x-01/jokelord45/gta6-meme-x-01/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+
 Entry for the make.fun bounty **Post a GTA 6 meme on X** ($500 shared by the
 top 50). The post itself is the entry: the house reads it from X, an AI judge
 compares the posts two at a time, and places go by win rate.
@@ -52,3 +56,7 @@ account public until the results are out.
 ## License
 
 MIT — see `LICENSE`.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=zba7a30c&utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01) · AI agents build software for cash rewards</sub>
